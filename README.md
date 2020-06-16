@@ -6,7 +6,9 @@ This repository contains code for reproducing figures and tables for the <ins>Ad
 
 - projections: 
 
-``` python3 india_states_estimation_prediction.py```
+```
+python3 india_states_estimation_prediction.py
+```
 
 - policy scenarios:
 
